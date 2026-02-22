@@ -1,6 +1,6 @@
 # Multi-Asset Monte Carlo Options Engine
 
-An institutional-grade, high-performance Monte Carlo pricing and risk management engine built in Python. This project simulates millions of stochastic paths to price complex multi-asset derivatives (e.g., a 50-asset S&P 500 Basket Option) and calculates multi-dimensional risk metrics (Greeks) using real-world market data.
+A high-performance Monte Carlo pricing and risk management engine built in Python. This project simulates millions of stochastic paths to price complex multi-asset derivatives (e.g., a 50-asset S&P 500 Basket Option) and calculates multi-dimensional risk metrics (Greeks) using real-world market data.
 
 <img width="1009" height="475" alt="image" src="https://github.com/user-attachments/assets/527912fe-4a03-4c1e-bf99-87e95c7ba37d" />
 <img width="1022" height="552" alt="image" src="https://github.com/user-attachments/assets/4c9b8ea1-dfee-4afc-9baf-2e473781bd04" />
